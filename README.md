@@ -1,4 +1,4 @@
-# Priorix - Proyecto de Diseño de Software – Corte Uno
+# Priorix - Proyecto de Diseño y Arquitectura de Software
 
 ### Introducción
 
