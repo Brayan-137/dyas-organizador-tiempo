@@ -16,7 +16,7 @@ Con el fin de cumplir este objetivo, se han identificado y planteado los siguien
 
 ---
 
-## 2. Requerimientos Funcionales y Diagrama de Casos de Uso
+## 2. Requerimientos Funcionales, Diagrama de Casos de Uso y Prototipo en Figma
 
 ### 2.1. Gestión de eventos y tareas
 
@@ -66,11 +66,20 @@ Con el fin de cumplir este objetivo, se han identificado y planteado los siguien
 
 ### 2.5. Diagrama de Casos de Uso
 
-Finalmente, antes de comenzar con el diseño se construye un diagrama de casos de uso para finalizar la etapa de comprensión de la solución que se buscaba implementar.
+A continuación, se construye un diagrama de casos de uso para, junto al prototipo en Figma, finalizar la etapa de comprensión de la solución que se buscaba implementar.
 
 _**Imagen del diagrama UML de casos de uso.**_
 ![Diagrama de Casos de Uso](https://github.com/user-attachments/assets/1a20b1d3-a316-489a-b34f-bb5d9ec24f10)
 
+---
+
+### 2.6. Prototipo en Figma
+
+Y finalmente, se adjunta el prototipo hecho en Figma de como se espera implementar algunas de las interacciones y procedimientos dentro de la aplicación.
+
+[Ver prototipo en Figma.](https://www.figma.com/make/QOP1jyDMSlcBGm9ovmEE6r/P%C3%A1gina-web-para-estudiantes?p=f&fullscreen=1)
+
+---
 
 ## 3. Fundamentos de Ingeniería de Software
 
